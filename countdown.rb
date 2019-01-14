@@ -9,3 +9,6 @@ end
 return "HAPPY NEW YEAR!"
 end
 
+def countdown_with_sleep(number)
+  number = 10
+  loop do
